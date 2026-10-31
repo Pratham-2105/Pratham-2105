@@ -1,4 +1,4 @@
-# Pratham
+# Pratham Srivastava
  
 Current Project - [GEMM-X](https://github.com/Pratham-2105/gemmx-cpp)
  
