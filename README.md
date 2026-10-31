@@ -9,6 +9,7 @@ Current Project - [GEMM-X](https://github.com/Pratham-2105/gemmx-cpp)
 * [micrograd-cpp](https://github.com/Pratham-2105/micrograd-cpp) - Scalar autograd engine in C++ (Karpathy micrograd port)
 * [GEMM-X](https://github.com/Pratham-2105/gemmx-cpp) - CPU matrix multiplication study, V0→V4 kernel optimizations, peak 125 GFLOP/s
 * [Jarvis](https://github.com/Pratham-2105/version-aware-rag) - Version-aware RAG engine with MCP server and CLI
+
 ## Programmers I like
  
 * [Magicalbat](https://www.youtube.com/@Magicalbat)
@@ -18,3 +19,4 @@ Current Project - [GEMM-X](https://github.com/Pratham-2105/gemmx-cpp)
 * [codestorywithMIK](https://www.youtube.com/@codestorywithMIK)
 * [TLE Eliminators](https://www.youtube.com/@TLE_Eliminators)
 * [Striver](https://www.youtube.com/@takeUforward)
+* [Coding Jesus](https://www.youtube.com/@CodingJesus)
