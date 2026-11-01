@@ -1,5 +1,3 @@
-<img width="1163" height="806" alt="image" src="https://github.com/user-attachments/assets/cd8bf901-d975-4d8f-84e8-1768e01aa843" /># Pratham Srivastava
- 
 Current Project - [GEMM-X](https://github.com/Pratham-2105/gemmx-cpp)
 Check my blog on GEMMX-X - [](https://pratham-2105.github.io/gemmx-cpp/)
  
