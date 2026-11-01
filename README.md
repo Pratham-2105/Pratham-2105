@@ -1,5 +1,5 @@
 Current Project - [GEMM-X](https://github.com/Pratham-2105/gemmx-cpp)
-Check my blog on GEMMX-X - [](https://pratham-2105.github.io/gemmx-cpp/)
+[BLOG](https://pratham-2105.github.io/gemmx-cpp/)
  
 ## Notable Projects
  
